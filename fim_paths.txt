@@ -1,0 +1,8 @@
+/etc/passwd
+/etc/shadow
+/etc/sudoers
+/etc/ssh/sshd_config
+/bin/
+/sbin/
+/usr/bin/
+/usr/sbin/
